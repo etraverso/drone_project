@@ -14,3 +14,15 @@ Evan Traverso, Aaron Kaufman and Spencer Davenport
   https://plot.ly/~evan.a.traverso/14/us-drone-strike-deaths/
   
   https://plot.ly/~evan.a.traverso/8/us-drone-strikes-by-country/
+  
+  Sources % Further Reading
+  
+http://www.nytimes.com/2012/07/30/us/drone-pilots-waiting-for-a-kill-shot-7000-miles-away.html?_r=0
+http://www.timesofisrael.com/pakistani-armed-drone-kills-in-first-attack/
+http://www.cfr.org/drones/transferring-cia-drone-strikes-pentagon/p30434
+http://www.npr.org/sections/thetwo-way/2013/10/22/239597012/u-s-drone-strikes-violate-international-law-reports-allege
+http://www.nytimes.com/2012/05/29/world/obamas-leadership-in-war-on-al-qaeda.html 
+https://en.wikipedia.org/wiki/Chenagai_airstrike 
+http://dronecenter.bard.edu/presidential-candid
+http://www.spiegel.de/international/world/pain-continues-after-war-for-american-drone-pilot-a-872726.html
+
